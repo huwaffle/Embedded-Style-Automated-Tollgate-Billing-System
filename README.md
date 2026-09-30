@@ -1,4 +1,8 @@
-Created by my team: Piangco, Rosco, Mendoza
+A Tollgate System made with my frieds:
+- ROSCO
+- MENDOZA
+- PIANGCO
+- ENCARNADO
 
 -----------
 

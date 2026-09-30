@@ -1,7 +1,8 @@
 Created by my team: Piangco, Rosco, Mendoza
 
-SETUP
+-----------
 
+SETUP
 - Download
 - Extract
 - Launch TOLLMATE.sln
